@@ -1,0 +1,35 @@
+.main-container{
+	width: 850px;
+	margin: 0 auto;
+}
+*{
+	margin: 0em;
+}
+
+h1{
+	background: #33BEBE;
+	color: white;
+	padding-top: .67em;
+	padding-left: 20px;
+  	font-size: 3em;
+font-family: arial;
+
+}
+section {
+		display: inline;
+}
+.img1{
+	float: left;
+	height: 15em;
+}
+#text1{
+	padding-right: 0;
+		padding-left: 12em;
+	font-size:24.8px;	
+	color: #7C8B88;
+	text-align: justify;
+}
+#mfa{
+	font-weight: 100;
+	font-family: 'Noto Sans', sans-serif;
+}
